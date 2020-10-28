@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="652239f2-4c51-4ea4-b28d-c4e095f98be2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="sl1p" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1jVL6ZvVassWCUho3u1PCO1RAnu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="ics" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="652239f2-4c51-4ea4-b28d-c4e095f98be2" name="Default Changelist" comment="" />
+      <created>1603884138234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603884138234</updated>
+      <workItem from="1603884139876" duration="360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2508" height="398" key="GridCell.Tab.0.bottom" timestamp="1603884235048">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state width="2508" height="398" key="GridCell.Tab.0.bottom/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603884235048" />
+    <state width="2508" height="398" key="GridCell.Tab.0.center" timestamp="1603884235046">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state width="2508" height="398" key="GridCell.Tab.0.center/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603884235046" />
+    <state width="2508" height="398" key="GridCell.Tab.0.left" timestamp="1603884235045">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state width="2508" height="398" key="GridCell.Tab.0.left/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603884235045" />
+    <state width="2508" height="398" key="GridCell.Tab.0.right" timestamp="1603884235047">
+      <screen x="0" y="23" width="2560" height="1385" />
+    </state>
+    <state width="2508" height="398" key="GridCell.Tab.0.right/559.1463.1920.1057/-1920.163.1920.1057/2560.256.1680.1027/0.23.2560.1385@0.23.2560.1385" timestamp="1603884235047" />
+  </component>
+</project>
